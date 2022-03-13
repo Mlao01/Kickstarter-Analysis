@@ -16,14 +16,14 @@ The chart shown below is a representation of the relationship between the outcom
 
 An interesting point in the chart below is that the line between ‘Successful’ and ‘Cancelled’ nearly intersects during the month of December. We can infer that due to the Christmas Holidays, most people would have spent their excess cash on gifts and other holiday related expenses leaving no cash to spend on Kickstarter pledges. 
 
-![Theater_Outcomes_vs_Launch](Kickstarter-Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
   
 ### Analysis of Outcomes Based on Goals
 In the chart below, we can further review the success/fail rate based on the goals set for each campaign in the ‘plays’ subcategory of the parent category, ‘Theater.’ 
 
 Briefly, we see that the highest successful campaigns (with 73% or greater success) have goals less than $5,000. The following successful campaigns have goals that fall between $35,000 and $45,000. Whereas the highest percentage of failed campaigns falls between the $45,000 and the $50,000 range. The next campaign goal to have highest failure rate is within the $25,000 - $30,000 range.
  
-![Outcomes_vs_Goals](Kickstarter-Analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
  In the analysis of the ‘Outcomes Based on Goals,’ we visualized the success/failure percentage for goals within certain ranges. This chart does not necessarily paint an accurate picture as some of the range as some campaigns may only contain less than 5 projects (See table below).  A different chart may be better for our specific purposes.
